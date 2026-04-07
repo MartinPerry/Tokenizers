@@ -8,9 +8,8 @@
 #include <utility>
 
 #include "./Strings/UnicodeRegex.h"
-
-#include <Utils/Strings/StringUtils.h>
-#include <Utils/Strings/StringIterators.h>
+#include "./Strings/StringUtils.h"
+#include "./Strings/StringIterators.h"
 
 
 TokenizerBPE::TokenizerBPE(const std::string& jsonPath) : 
