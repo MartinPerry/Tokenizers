@@ -2,8 +2,8 @@
 
 #include <stdexcept>
 
-#include <Utils/cJSON.h>
-#include <Utils/Strings/StringUtils.h>
+#include "./3rdParty/cJSON.h"
+#include "./Strings/StringUtils.h"
 
 #include <FileUtils/FileMacros.h>
 
