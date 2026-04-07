@@ -7,10 +7,10 @@
 #include <memory>
 #include <vector>
 
-#include <Utils/3rdParty/xxhash.hpp>
+#include <3rdParty/xxhash.hpp>
 
-#include <Utils/Strings/StringIterators.h>
-#include <Utils/Strings/Utf8Utils.h>
+#include <Strings/StringIterators.h>
+#include <Strings/Utf8Utils.h>
 
 //=============================================================
 //Tokens:
