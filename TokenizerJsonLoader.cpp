@@ -5,7 +5,7 @@
 #include "./3rdParty/cJSON.h"
 #include "./Strings/StringUtils.h"
 
-#include <FileUtils/FileMacros.h>
+#include "./FileMacros.h"
 
 
 TokenizerJsonLoader::TokenizerJsonLoader(const std::string& jsonPath) : 
